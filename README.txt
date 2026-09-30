@@ -1,0 +1,1 @@
+Sube index.html y la carpeta img a la raíz del repositorio. No subas el Excel. Fotos pendientes: Alba, Ainhoa, Caye y Marta G.
